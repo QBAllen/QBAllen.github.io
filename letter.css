@@ -26,6 +26,7 @@ background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
     font-size: 2.5em;
     font-family: '楷体';
     position: relative;
+    top:-500px;
     /* 使盒子具备透视效果 */
     transform-style: preserve-3d;
     transform: perspective(900px) rotateX(23deg);
